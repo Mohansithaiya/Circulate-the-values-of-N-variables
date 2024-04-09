@@ -1,9 +1,11 @@
 # Circulate-the-values-of-N-variables
 ## Aim:
 To write a python program to circulate the n variables using function concept
+
 ## Equipment’s required:
 PC
 Anaconda - Python 3.7
+
 ## Algorithm: 
 ### Step 1: 
 Get the values from the user
@@ -17,8 +19,13 @@ Using the slicing concept rotate the list
 Print both the values it would be interchanged
 ### Step 6: 
 print the result
+
 ## Program:
 ```python
+program to Circulate the n variables using function concept
+DEVELOPED BY: MOHAN.S
+REGISTER NO: 212223240094
+
 def circulate():
     values=eval(input())
     n=int(input())
@@ -30,7 +37,8 @@ def circulate():
 
 
 ## Output:
-![Screenshot 2024-03-09 094343](https://github.com/Mohansithaiya/Circulate-the-values-of-N-variables/assets/154211682/ec14f956-d1dc-4978-a54e-58fad5ab1136)
+
+![alt text](<Screenshot 2024-04-09 085022.png>)
 
 
 ## Result:
